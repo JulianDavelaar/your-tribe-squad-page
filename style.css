@@ -1,1 +1,5 @@
-body{background-color: aquamarine;}
+header{text-align: center;}
+header{border-bottom: 2px solid black;}
+div img{width: 450px;;height: auto;}
+div img{width: 450;;height: auto;}
+
