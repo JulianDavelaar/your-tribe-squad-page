@@ -1,0 +1,40 @@
+body {
+   
+    display: grid; 
+    gap: 0.5em;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   margin: 8%;
+}
+
+h1 {
+    grid-column-start: 1;
+    grid-column-end: -1;
+    font-size: 8em;
+ 
+}
+
+img{
+    width: 18em;
+    height: auto;
+    padding: 0%;   
+}
+
+.pic2 { grid-column-start: 3 ;}
+.pic3 { grid-column-start: 5 ;}
+.pic4 { grid-column-start: 2 ;}
+.pic5 { grid-column-start: 4 ;}
+.pic6 { grid-column-start: 1 ;}
+.pic7 { grid-column-start: 3 ;}
+.pic8 { grid-column-start: 5 ;}
+.pic9 { grid-column-start: 2 ;}
+.pic10 { grid-column-start: 4 ;}
+.pic11 { grid-column-start: 1 ;}
+.pic12 { grid-column-start: 3 ;}
+.pic13 { grid-column-start: 5 ;}
+.pic14 { grid-column-start: 2 ;}
+.pic15 { grid-column-start: 4 ;}
+.pic16 { grid-column-start: 1 ;}
+.pic17 { grid-column-start: 3 ;}
+.pic18 { grid-column-start: 5 ;}
+.pic19 { grid-column-start: 2 ;}
+.pic20 { grid-column-start: 4 ;}
