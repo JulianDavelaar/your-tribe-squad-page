@@ -1,24 +1,26 @@
 header{text-align: center;}
 header{border-bottom: 2px solid black;}
 div img{width: 450px;;height: auto;}
-div img{width: 450;;height: auto;}
+div img{width: 450px;;height: auto;}
 
+header
 
 body {
-   
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-gap: 3em;}
-
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 8px;
+}
+    
 
 
  body {
-    background: pink;
+    background-color: #25167a;
 }
 
 @media(min-width: 35rem) {
     body {
-        background: yellow;
+        background-color: #351fb7;
     }
 }
 
