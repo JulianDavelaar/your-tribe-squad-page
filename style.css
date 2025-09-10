@@ -3,3 +3,24 @@ header{border-bottom: 2px solid black;}
 div img{width: 450px;;height: auto;}
 div img{width: 450;;height: auto;}
 
+
+body {
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+gap: 3em;}
+
+
+
+ body {
+    background: pink;
+}
+
+@media(min-width: 35rem) {
+    body {
+        background: yellow;
+    }
+}
+
+
+
