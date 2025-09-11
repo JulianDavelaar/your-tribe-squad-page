@@ -1,0 +1,10 @@
+body
+
+.grid {
+  display: grid;               /* zeg: dit is een grid */
+  grid-template-columns: 1fr 1fr; /* 2 kolommen: elk de helft van de ruimte */
+  gap: 20px;                   /* ruimte tussen de vakjes */
+  height: 50px;
+  width: 10px;
+}
+
