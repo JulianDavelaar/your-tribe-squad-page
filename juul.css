@@ -1,0 +1,24 @@
+header{text-align: center;}
+header{border-bottom: 2px solid black;}
+
+div img{width: 450px;height: auto;}
+div img{width: 450px;height: auto;}
+div img{aspect-ratio: 2/1;}
+
+body {   
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 8px;
+}
+
+body {
+    background: pink;
+}
+
+@media(min-width: 50rem) {
+    body {
+        background: yellow;
+    }
+}
+
