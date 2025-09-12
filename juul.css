@@ -10,6 +10,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(5, 1fr);
     gap: 8px;
+    aspect-ratio: 12;
 }
     
 
@@ -18,7 +19,7 @@ body {
     background-color: #25167a;
 }
 
-@media(min-width: 35rem) {
+@media(min-width: 50rem) {
     body {
         background-color: #351fb7;
     }
