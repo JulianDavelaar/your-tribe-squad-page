@@ -1,0 +1,14 @@
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  background-color: mediumturquoise;
+}
+
+
+main img {
+    width: 200px;   
+    height: auto;   
+}
