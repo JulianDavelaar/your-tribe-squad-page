@@ -101,9 +101,10 @@ Door te experimenteren en verschillende variaties te maken en bespreken met je t
 
 #### Bronnen Visuele Hiërarchie
 
+- [Principles of User Interface Design, door Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
 - [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
-- [Principles of User Interface Design, door Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
+- [Integrating Contrast Checks in Your Web Workflow](https://24ways.org/2014/integrating-contrast-checks-in-your-web-workflow)
 <!--- [Visual Hierarchy: How Well Does Your Design Communicate?](http://vanseodesign.com/web-design/visual-hierarchy/)-->
 <!-- - [Korte video over layout en compositie  @ YouTube](https://www.youtube.com/watch?v=a5KYlHNKQB8) -->
 
