@@ -13,17 +13,17 @@ Voordat je met visuele hiërarchie gaat ontwerpen, gaan we eerst wat oefeningen 
 
 
 
-## Figma oefeningen
+## Oefenen met Figma
 Maak een [Figma account](https://www.figma.com/) aan en [download Figma](https://www.figma.com/downloads/) als je dit nog niet hebt (je kan ook in de browser met Figma werken).
 
 Open de template https://www.figma.com/community/file/1417141972138865897/fdnd-figma-sprint-1-template-community voor een aantal oefeningen. 
 
-### Vormen, volgorde en groeperen
+### Oefeningen over vormen, volgorde en groeperen
 Ga naar de 'page' met een aantal beginners oefeningen over vormen, volgorde en groeperen en voer de oefeningen uit. 
 
 ![image](https://github.com/user-attachments/assets/2b24f983-9d25-4314-96be-c2f35ee9dc36)
 
-### Frames, grids en uitlijnen
+### Oefeningen over frames, grids en uitlijnen
 In Figma werk je met frames (artboards), een frame stelt over het algemeen één scherm voor, voor continuïteit is het handig om gridlijnen toe te voegen zodat je dezelfde spacing aanhoudt over je hele ontwerp.
 
 Ga naar de 'page' met oefeningen over het werken met frames, grids en uitlijnen en voer de oefenigen uit. 
