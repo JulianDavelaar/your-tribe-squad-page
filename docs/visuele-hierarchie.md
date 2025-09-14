@@ -44,7 +44,7 @@ Ga naar de 'page' met oefeningen over het werken met frames, grids en uitlijnen 
 
 
 
-## Variëren met visuele hiërarchie
+## Ontwerpen met visuele hiërarchie
 Maak met je team verschillende variaties van jullie squad page ontwerp in Figma, waarbij je goed rekening houdt met de visuele hiërarchie. Je leert wat visuele hiërarchie is en hoe je het kan toepassen in web design. 
 
 Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van tekst of elementen, gebruik van kleur en contrast, en witruime en positie van elementen op het scherm. In deze workshop ga je leren wat visuele hiërarchie is en hoe je het kunt gebruiken om met je team verschillende variaties van jullie website te maken. 
