@@ -1,25 +1,25 @@
 # Your Tribe - Squad page
 
-## Wrap up
+## Wrap Up
 
-Tijdens de Wrap up ga je bekijken wat je nog kan afmaken voor een presentatie bij een opdrachtgever of een expo.
+Tijdens de Wrap Up ga je bekijken wat je nog kan afmaken voor een presentatie bij een opdrachtgever of een expo.
 Wat wil je laten zien en wat is daar nog voor nodig? 
-Als je in een team werkt kan je de taken prioriteren en verdelen. 
+Als je in een team werkt, kan je de taken prioriteren en verdelen. 
 
 ### Expo
 
-Denk alvast aan de expo en wat je dan wil laten zien. 
+Denk alvast aan de expo van vrijdag, en wat je dan wil laten zien. 
 Wat is daar nog voor nodig? 
-Heeft jullie website een uitleg nodig? Is de eerste pagina goed vormgegeven en snappen gebruikers wat ze moeten doen? 
-Wat kun je nog toevoegen, of weglaten zodat mensen die tijdens de expo de website bekijken begrijpen wat ze moeten doen en dat alles het goed doet.
+Heeft jullie website een uitleg nodig? Is de eerste pagina goed vormgegeven en snappen bezoekers wat ze moeten doen? 
+Wat kun je nog toevoegen? Of weglaten, zodat mensen, die tijdens de expo de website bekijken, begrijpen wat ze moeten doen en dat alles het goed doet.
 
 ### Readme
 
 Als je een project oplevert, bijvoorbeeld voor een klant of een opdrachtgever, is het belangrijk dat jullie Repository er professioneel uitziet. 
-Hiervoor kun je de Readme gebruiken. 
+Hiervoor kun je de _Readme_ gebruiken. 
 
 De Readme is het eerste wat iemand ziet op GitHub. 
-In de Readme kan je uitleggen wat jullie hebben gemaakt, je kan screenshots laten toevoegen en vertellen wie de website hebben genaakt. De Readme is het uithangbord van jullie project.
+In de Readme kan je uitleggen wat jullie hebben gemaakt. Je kan screenshots toevoegen en vertellen wie de website hebben gemaakt. De Readme is het _uithangbord_ van jullie project.
 
 Tijdens de expo vrijdag laten jullie naast jullie project ook jullie Readme zien op een laptop.
 
@@ -27,8 +27,8 @@ Tijdens de expo vrijdag laten jullie naast jullie project ook jullie Readme zien
 
 1. Bespreek met je team welke taken nog nodig (en haalbaar) zijn om jullie squad page af te ronden deze laatste dagen.
 2. Maak een issue aan per taak, en _assign_ het teamlid dat deze taak nog op gaat pakken.
-3. Bekijk ook welke andere issues nog openstaan, en nog opgepakt of gesloten kunnen worden.
-4. Maak via edu.nl alvast een korte link aan voor jullie website, en voeg deze toe aan jullie Readme.
+3. Bekijk ook welke andere issues nog openstaan, en nog opgepakt of _gesloten_ kunnen worden.
+4. Maak via [edu.nl](https://edu.nl/) alvast een korte link aan voor jullie website, en voeg deze toe aan jullie Readme.
 5. Breid jullie Readme uit met een korte uitleg over jullie project, en beschrijf _drie_ opvallende features, waar jullie trots op zijn.
 6. Voeg wat screenshots toe aan de Readme; laat bijvoorbeeld zien hoe jullie project er op verschillende devices uitziet. Dit is jullie etalage.
 7. Schrijf in de Readme wat over jullie team; wie zijn de teamleden, en waar kun je meer informatie over jullie vinden?
